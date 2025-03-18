@@ -1,4 +1,4 @@
-# Близнюк Аполлинария
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhlbGdxdDJsaHB4dmVyMHJ6d2RkdWcxenZ3Y2p0YWFyZTF5bm51OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EX5QZ9N9d51dqo/giphy.gif" width="400"/>
 </div>
@@ -10,21 +10,6 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
-## О себе
-- :school: БГУИР 3 курс
-- :office: PO
-- :white_check_mark: https://apllnrrr.github.io/evt/
-## Контактная информация
-- **linkedIn:** *Аполлинария Близнюк*
-- **email:** *polinablizniuk@gmail.com*
-## Навыки
-- JS
-- Java
-- HTML
-- CSS
-- Python
-- Jira
 ## :hammer_and_wrench: Языки и Инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
@@ -35,23 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-## Пример кода 
-```javascript
-const a = 10;
-console.log('Your age is ' + a);
-```
-## Опыт работы 
-| Срок работы | Место работы | 
-|-------------|--------------|
-| декабрь 2024 <br> - настоящее время | Krainet |
-## Образование 
-| Период обучения | Место обучения | 
-|-----------------|----------------|
-| 2020-2022       | Лицей БНТУ     |
-| 2022-2026       | БГУИР          |
-## Языки
-- English B2
-- Русский
 ## :fire: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apllnrrr&theme=dark&background=000000)](https://git.io/streak-stats)
 
