@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+
 ## :hammer_and_wrench: Языки и Инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
@@ -25,5 +26,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apllnrrr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![IMG_5051](https://github.com/user-attachments/assets/00e59d8e-9bbd-4e4b-9b5e-83ef42dad751)
 
